@@ -1,4 +1,3 @@
-
 function simularLlamadaApi(url) {
     return new Promise((resolve, reject) => {
         fetch(url, {
